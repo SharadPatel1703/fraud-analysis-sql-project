@@ -1555,10 +1555,9 @@ All queries follow this documentation format:
 
 **[Your Name]**
 
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
-- 🐙 GitHub: [github.com/yourusername]
-- 🌐 Portfolio: [yourportfolio.com]
+- 📧 Email: [sharadpatel.main@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/sharadpatel1703/]
+- 🐙 GitHub: [github.com/SharadPatel1703]
 
 ---
 
@@ -1580,31 +1579,6 @@ This project is created for educational and portfolio purposes. The dataset is s
 
 `#SQL` `#DataAnalytics` `#FraudDetection` `#MySQL` `#DataScience` `#FinancialAnalytics` `#Portfolio` `#DataAnalysis` `#BusinessIntelligence` `#Analytics`
 
----
-
-**⭐ If you found this project helpful, please give it a star!**
-
----
-
-*Last Updated: [Current Date]*
-*Project Version: 1.0*
-*Author: [Your Name]*
-
----
-
-## 📌 Quick Start Guide
-
-**For the impatient:**
-
-1. Clone repo: `git clone [your-repo-url]`
-2. Import schema: `mysql < sql/01_schema.sql`
-3. Load data: Import CSV files via MySQL Workbench
-4. Run queries: Start with `sql/03_exploratory_analysis.sql`
-5. Explore results: Check `results/` folder
-
-**Total time to run: ~30 minutes**
-
----
 
 ## 💡 Interview Talking Points
 
