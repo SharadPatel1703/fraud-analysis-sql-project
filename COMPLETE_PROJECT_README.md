@@ -1553,7 +1553,7 @@ All queries follow this documentation format:
 
 ## 📧 Contact
 
-**[Your Name]**
+**[Sharad Patel]**
 
 - 📧 Email: [sharadpatel.main@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/sharadpatel1703/]
